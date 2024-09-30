@@ -6,7 +6,7 @@
 
 **Build**
 
-Use the following code to build the project.
+Go to `/merge_arrays` folder. At the same level of `src` folder, use the following code to build the project.
 
 ```cmd
 colcon build
