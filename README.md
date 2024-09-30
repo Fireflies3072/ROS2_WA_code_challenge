@@ -35,4 +35,6 @@ ros2 topic pub /input/array2 std_msgs/Int32MultiArray "{data: [3, 9, 18, 20, 30]
 
 ## PID
 
-I'm still doing it. It takes me a long time to setup the ROS2 environment.
+**Discovery**
+
+In the PID file, I set up some parameters to reduce error and make the output converge faster. I find the `Kp` and `Kd` values the higher the better. It is possible that the time interval for simulation is not short enough to show more details. There may be a high overshoot between the sample points.
