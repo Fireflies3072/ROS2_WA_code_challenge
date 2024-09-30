@@ -1,4 +1,4 @@
-# ROS2_WA_code_challenge
+# WA_code_challenge
 
 ## merge_arrays
 
